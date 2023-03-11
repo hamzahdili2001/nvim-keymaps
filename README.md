@@ -1,6 +1,6 @@
 
 ---
-sidebar_position: 3
+# This keymaps used for Lazyvim, find it on [https://www.lazyvim.org/](www.lazyvim.org){:target="_blank"}.
 ---
 
 # ⌨️ Keymaps
