@@ -1,6 +1,6 @@
 
 ---
-# This keymaps used for Lazyvim, find it on [https://www.lazyvim.org/](www.lazyvim.org){:target="_blank"}.
+# This keymaps used for Lazyvim, find it on <a href="https://www.lazyvim.org/" target="_blank">LazyVim.org</a> .
 ---
 
 # ⌨️ Keymaps
